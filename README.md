@@ -4,6 +4,7 @@ Before run the code, you need to create the target collection.
 - For that download the collection's conf (Linux):
 
 cd <solr_diirectory>/bin/
+
 ./solr zk downconfig -d <download_path> -n <conf_name> -z localhost:2181
 
 - If you want to check for the conf you can use:
