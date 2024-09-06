@@ -1,4 +1,7 @@
 # solr_migrate_api_solution
+
+ISSUE: https://issues.apache.org/jira/browse/SOLR-17443
+
 Before run the code, you need to create the target collection. 
 
 - For that download the collection's conf (Linux):
